@@ -1,1 +1,3 @@
-This is basically Sublime downloaded from the webiste with my preferences added.
+Add this to the document opened by:  
+
+Preferences > Settings - User
