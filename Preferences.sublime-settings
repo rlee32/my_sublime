@@ -8,7 +8,7 @@
   "translate_tabs_to_spaces": true,
   // May be set to true, false, or "auto", where it will be disabled for
   // source code, and otherwise enabled.
-  "word_wrap": "true",
+  "word_wrap": true,
   // Makes auto indent a little smarter, e.g., by indenting the next line
   // after an if statement in C. Requires auto_indent to be enabled.
   "smart_indent": false,
